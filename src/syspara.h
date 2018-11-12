@@ -6,7 +6,7 @@
 #include <math.h>
 #include <limits.h>
 #include "mkl.h"
-#include "/home/tsumoto/lib/xhplot.h"
+#include "./include/xhplot.h"
 
 #define NN 12
 #define BUF 100
