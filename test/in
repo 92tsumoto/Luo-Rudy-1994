@@ -1,0 +1,47 @@
+/* Base cycel length */
+400.0
+
+/* Istim */
+-80.0
+//0.0
+
+/* number of datas */
+1
+
+/* line width */
+2
+
+/* x1, y1 */
+-87.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+10.0
+145.0
+0.12e-3
+1.7
+1.7
+
+/* direction of time */
+1
+/* end time. 0.0 = nolimit of integration */ 
+0
+
+1		/* number of period */
+1000	    /* strip for integral */
+1		/* poincare flag 0 --- poincare/1 --- orbit */
+1		/* write file 0 --- not write/1 --- write */
+0		/* write flag 0 --- poincare/1 --- orbit */
+0		/* if 1 then period is PI*/
+
+100 600 100 600     /* graph location */
+-0.2 1.2 -100 60	/* scaling */
+0.2 30 1 1     /* label strip & interval */
+1 1                 /* floating point */
+1                   /* axis/grid */
+-sony-fixed-medium-r-normal--24-170-100-100-c-120-iso8859-1 /* font */
+-212 -460 -40 -288      /* arrow */
+1                   /* command */
